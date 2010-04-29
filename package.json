@@ -24,7 +24,7 @@
     "repositories": [
         {
             "type": "git",
-            "url": "git://github.com/Gozala/jsdocs.git",
+            "url": "git://github.com/Gozala/jsdocs.git"
         }
     ],
     "os": ["linux", "macos", "win"],

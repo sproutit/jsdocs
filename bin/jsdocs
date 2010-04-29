@@ -1,2 +1,4 @@
-#!/usr/bin/env narwhal
-require('jsdocs').main(system.args);
+#!/usr/bin/env seed
+
+require.loader.register(__filename, '..', '..');
+require('jsdocs').main(require.args);
